@@ -1,4 +1,4 @@
 
 
-def introduction(nmae)
+def introduction(name)
 end
